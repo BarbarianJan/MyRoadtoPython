@@ -5,6 +5,7 @@ February 19th started working on A Byte of Python [book website](https://python.
 
 * 26th of February page 58
 * 1st of March page 65
+* 5th of March page 75
 
 <b>Goals for next 6 or so months</b>
 1) use Python [Pandas](https://pandas.pydata.org/) library in work environment.
