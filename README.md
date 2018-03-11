@@ -2,12 +2,10 @@
 This is a repo that will introduce my road to mastering Python 
 
 February 19th started working on A Byte of Python [book website](https://python.swaroopch.com/)  
+* Finished March 11th
 
-* 26th of February page 58
-* 1st of March page 65
-* 5th of March page 75
-* 6th of March page 80
-* 11th of March page 106
+March 12th started working on Automate the boring stuff with python [book website] (https://automatetheboringstuff.com/)
+
 
 <b>Goals for next 6 or so months</b>
 1) use Python [Pandas](https://pandas.pydata.org/) library in work environment.
