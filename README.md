@@ -8,7 +8,7 @@ March 12th started working on Automate the boring stuff with python [book websit
 
 
 <b>Goals for next 6 or so months</b>
-1) Tackle some projects from [Martyr2's Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+1) Tackle some projects from [Martyr2's Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
 2) use Python [Pandas](https://pandas.pydata.org/) library in work environment.
 3) use Python to create a Slack bot to schedule meetings, book rooms, invite people.
 4) use Python to create an [Image Classification](https://www.youtube.com/watch?v=qaQofXTxkSo) for different breeds of dogs.
