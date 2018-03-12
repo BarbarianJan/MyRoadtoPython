@@ -5,7 +5,7 @@ February 19th started working on A Byte of Python [book website](https://python.
 * Finished March 11th
 
 March 12th started working on Automate the boring stuff with python [book website](https://automatetheboringstuff.com/)
-
+Marc 12th also started working on <b>Learn Python</b> path on [Codeacademy](https://www.codecademy.com/courses/learn-python)
 
 <b>Goals for next 6 or so months</b>
 1) Tackle some projects from [Martyr2's Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
