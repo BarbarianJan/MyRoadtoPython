@@ -10,8 +10,10 @@ Marc 12th also started working on <b>Learn Python</b> path on [Codeacademy](http
 
 <b>Goals for next 6 or so months</b>
 1) Tackle some projects from [Martyr2's Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
-*) Created a program for PYGLATIN project
-*) Creating a program that functions for encrypting and decrypting data messages.
+
+- Created a program for PYGLATIN project
+
+- Creating a program that functions for encrypting and decrypting data messages.
 
 2) use Python [Pandas](https://pandas.pydata.org/) library in work environment.
 3) use Python to create a Slack bot to schedule meetings, book rooms, invite people.
