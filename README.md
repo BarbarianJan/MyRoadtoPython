@@ -13,6 +13,8 @@ Marc 12th also started working on <b>Learn Python</b> path on [Codeacademy](http
 
 - Created a program for PYGLATIN project
 
+- Created a working game Battleship by following the directions of Codecademy
+
 - Creating a program that functions for encrypting and decrypting data messages.
 
 2) use Python [Pandas](https://pandas.pydata.org/) library in work environment.
