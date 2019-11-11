@@ -11,7 +11,7 @@ def performMath():
     if equation == 'quit':
         run = False
     else:
-        equation=re.sub('[a-z-A-Z,.()+" "]','', equation)
+        equation=re.sub('[a-z-A-Z,.()" "]','', equation)
         previous = eval(equation)
         print("You typed", previous)
 while run:
